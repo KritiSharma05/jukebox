@@ -1,0 +1,17 @@
+Jukebox Project
+
+Tasks which we have to perform :
+1. database design -> ##### done #####
+2. database coding -> ##### done #####
+3. catelogue , display,search etc
+4. create a catelogue of podcast and songs
+5. play, pause, and remaining time of the song 
+
+****************************************************************************************************
+Task 3:
+catelogue,display,search how to do it ??????????
+chalo phele class batane hai of all the tables -> ###done###
+now make a catelouge class  of the to display things 
+user registeration done **************************
+now display songs and search them using genre,artist name , sogn name , song id 
+display of songs 

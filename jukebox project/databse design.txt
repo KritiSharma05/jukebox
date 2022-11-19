@@ -1,0 +1,21 @@
+Jukebox project 
+
+Database Design
+
+Table User:
+Attributes->user id(primary key) , user name,password, email.
+
+Table songs:
+Attributes-> sid(primary key) ,name of song,artist name,path of song ,duration,genre .
+
+Table playlist:
+Attribute ->id(primary key),pid ,playlist name , user id(foreign key) ,sid(foreign key)
+
+Table podcast:
+Attributes-> pid(primary key),podcast name.
+
+Table episode:
+Attributes -> eid(primary key),ename,path name,duration,pid(foreign key),artist name.
+
+
+
